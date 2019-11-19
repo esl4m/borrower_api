@@ -3,7 +3,7 @@ Python Django REST framework application.
 
 
 ## To run the app on docker:
-- Clone the repo to your local `git clone https://github.com/esl4m/borrower_api.git`
+- Clone the repo to your local `git clone https://github.com/esl4m/borrower_app.git`
 - cd into cloned folder.
 - run the following command `docker-compose up --build -d`
 - To check the status of the running containers, run the following command `docker ps -a`
